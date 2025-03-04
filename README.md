@@ -1,9 +1,40 @@
-# 💫 About Me:
-🔭 I am a QA assurance engeener<br>👯 I’m looking to collaborate with companies<br>🤝 I’m looking for helping corporations in product quality<br>🌱 Love learning new features<br>💬 Contact with me for collobration<br>⚡ Love working fast
+### ✨ About Me ✨  
+Hi there! 👋 I'm Gevorg, an enthusiastic and detail-driven **Junior QA Engineer** with a passion for ensuring software quality and delivering seamless user experiences. I'm on a journey to master the art of testing, automation, and collaboration, and I'm excited to contribute to building robust and reliable software.  
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gevorg-gevorgyan-204b80341/) 
+### 🔍 What I Do  
+- 🛠️ Learning to design and execute test plans and test cases.  
+- 🐛 Identifying and documenting bugs to help improve software quality.  
+- 🤖 Exploring test automation tools and frameworks to enhance efficiency.  
+- 🔄 Collaborating with teams to understand requirements and deliver high-quality results.  
+
+---
+
+### 🧰 Tech Stack  
+- **Testing Tools:** [e.g., Selenium, Postman]  
+- **Automation Frameworks:** [e.g., Selenium WebDriver]  
+- **Bug Tracking:** [e.g., Jira]  
+- **Programming Languages:** [e.g., Python]  
+- **Version Control:** [e.g., Git, GitHub]  
+
+---
+
+### 🌟 What Drives Me  
+As a junior in the field, I’m fueled by curiosity and a desire to learn. I’m passionate about breaking things (in a good way!) to uncover issues and improve software. I’m eager to grow my skills in manual and automated testing, and I’m always looking for opportunities to contribute and learn from experienced professionals.  
+
+---
+
+### 📫 Let's Connect!  
+I’m always open to connecting with fellow QA enthusiasts, mentors, and collaborators. Feel free to reach out:  
+- **Email:** ggevorgyan782@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/gevorg-gevorgyan-204b80341/  
+
+---
+
+### 💡 Fun Fact  
+When I’m not testing software, you can find me [e.g., exploring new tech, playing video games, reading, or enjoying the outdoors].  
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-43B02A?style=for-the-badge&logo=https://raw.githubusercontent.com/username/repo/main/product-transfer-state-svgrepo-com.svg&logoColor=white)
